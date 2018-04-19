@@ -11,11 +11,11 @@ class bougie {
 	private $gomerPyle;
 	private $joker;
 
-	public function getGomerPyle(): int {
+	public function getGomerPyle(): string {
 		return ($this->gomerPyle);
 	}
 
-	public function getJoker(): int {
+	public function getJoker(): string {
 		return ($this->joker);
 	}
 
